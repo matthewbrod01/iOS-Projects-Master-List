@@ -22,6 +22,19 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 <img src="leetTweets4.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 <img src="leetTweets.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
+## HomeDrive
+- *Description:* Incomplete iOS Project. Prototyping an idea that will allow drivers to connect with homeowners for renting out private parking spaces.
+
+- *Features:* Google OAuth, Google Maps, FloatingPanelController
+
+- *Takeaways:* Practiced UI Design. Learned to work with FloatingPanel (3rd party library). Implemented Google's Sign-In, Google Maps.
+
+- *To Be Added:* Firebase Database, HomeOwner UI Screen, Booking functionality
+
+[Repo link To Be Added When Complete]()
+
+<img src="HomeDrive.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+
 ## InstagramClone
 - *Description:* Instagram-like app that allows users to post images and captions to a real-time feed
 
