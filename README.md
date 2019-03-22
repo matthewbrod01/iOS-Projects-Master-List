@@ -1,8 +1,19 @@
 # iOS Projects
-This repository serves to be a quick overview of all of my iOS projects, all in one place.
+This repository serves to be a quick overview for all of my iOS projects, all in one place.
+
+## flix
+**Description:** Uses MovieDB API to browse movies
+
+**Features:** UITableView, UICollectionView, AlamofireImage, PKHUD, Network Requests, WKWebView
+
+**Takeaways:** Learned Table Views, Collection Views, Cocoapods Integration, Network Request Calls, Parsing JSON files, Implementing youtube trailer videos
+
+<img src="flix-part2-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+
+[Repo link](https://github.com/matthewbrod01/flix2.0)
 
 ## tipster
-**Description** First iOS Project. Created a Tipping Calculator.
+**Description:** First iOS Project. Created a Tipping Calculator.
 
 **Features:** UITextField, UIButton, Navigation Controller, Segues
 
@@ -11,6 +22,8 @@ This repository serves to be a quick overview of all of my iOS projects, all in 
 <img src="tipster-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 [Repo link](https://github.com/matthewbrod01/tipster)
+
+<br />
 
 # Hackathon projects
 
