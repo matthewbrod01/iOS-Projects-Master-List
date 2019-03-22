@@ -1,3 +1,5 @@
+# Master List
+
 This repository serves to be a quick overview for all of my iOS projects, all in one place.
 
 **Table of Contents**
@@ -7,6 +9,17 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 # Personal iOS Projects
 
+## InstagramClone
+**Description:** Instagram-like app that allows users to post images and captions to a real-time feed
+
+**Features:** OAuth, Parse Backend, UIImagePickerController Camera
+
+**Takeaways:** Learned user authentication, Parse Backend for storing and downloading data in real-time, Using iOS Camera to take photos and videos
+
+[Repo link](https://github.com/matthewbrod01/Instagram-Clone)
+
+<img src="instaclone-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+
 ## ParseChat
 **Description:** Created a Chat Messaging Client using Parse Backend
 
@@ -14,7 +27,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 **Takeaways:** Learned user authentication, working with a database to send and retrieve data
 
-[Repo link](https://github.com/matthewbrod01/tumblr2.0)
+[Repo link](https://github.com/matthewbrod01/chatClient)
 
 <img src="chatClient-demo-updated.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
@@ -25,7 +38,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 **Takeaways:** Further practiced working with table views. Learned how to pass data between screens. Worked with UIScrollView for image zoom and infinite scrolling
 
-[Repo link](https://github.com/matthewbrod01/chatClient)
+[Repo link](https://github.com/matthewbrod01/tumblr2.0)
 
 <img src="tumblr2.0-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
