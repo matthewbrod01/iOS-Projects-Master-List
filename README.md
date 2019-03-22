@@ -1,5 +1,11 @@
-# iOS Projects
 This repository serves to be a quick overview for all of my iOS projects, all in one place.
+
+**Table of Contents**
+- [Personal iOS Projects](https://github.com/matthewbrod01/iOS-Projects-Master-List#personal-ios-projects)
+- [Hackathon Projects](https://github.com/matthewbrod01/iOS-Projects-Master-List#hackathon-projects)
+
+
+# Personal iOS Projects
 
 ## ParseChat
 **Description:** Created a Chat Messaging Client using Parse Backend
@@ -15,9 +21,9 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 ## Tumblr
 **Description:** Tumblr Client that shows stories from Humans of New York
 
-**Features:** TumblrAPI, Segues, UITableViewHeaders, UIScrollView
+**Features:** TumblrAPI, Segues, UITableViewHeaders, UIScrollView, InfiniteScroll
 
-**Takeaways:** Further practiced working with table views. Learned how to pass data between screens. Worked with UIScrollView for image zoom
+**Takeaways:** Further practiced working with table views. Learned how to pass data between screens. Worked with UIScrollView for image zoom and infinite scrolling
 
 [Repo link](https://github.com/matthewbrod01/chatClient)
 
