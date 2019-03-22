@@ -1,6 +1,5 @@
 # Master List
-
-This repository serves to be a quick overview for all of my iOS projects, all in one place.
+A quick overview for all of my iOS projects, all in one place.
 
 **Table of Contents**
 - [Personal iOS Projects](https://github.com/matthewbrod01/iOS-Projects-Master-List#personal-ios-projects)
