@@ -18,12 +18,21 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link](https://github.com/matthewbrod01/twitterClone)
 
-<img src="leetTweets3.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
-<img src="leetTweets4.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
-<img src="leetTweets.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="leetTweets3.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><img src="leetTweets4.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><img src="leetTweets.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+
+## ObjectiveDetective
+- *Description:* Short iOS app to explore CoreML. Detects Objects in a video using Machine Learning
+
+- *Features:* CoreML
+
+- *Takeaways:* Played around with AVKit, Vision libraries. CoreML is really cool.
+
+[Repo link](https://github.com/matthewbrod01/ObjectiveDetective)
+
+<img src="objective-detective-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## HomeDrive
-- *Description:* Incomplete iOS Project. Prototyping an idea that will allow drivers to connect with homeowners for renting out private parking spaces.
+- *Description:* Incomplete long-term iOS Project. Prototyping an idea that will allow drivers to connect with homeowners for renting out private parking spaces. Basically Airbnb but for garages in urban areas.
 
 - *Features:* Google OAuth, Google Maps, FloatingPanelController
 
