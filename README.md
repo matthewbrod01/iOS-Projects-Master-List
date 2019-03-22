@@ -18,7 +18,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link](https://github.com/matthewbrod01/twitterClone)
 
-<img src="leetTweets3.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><img src="leetTweets4.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><img src="leetTweets.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="GIF-recordings/leetTweets3.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><img src="GIF-recordings/leetTweets4.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><img src="GIF-recordings/leetTweets.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## ObjectiveDetective
 - *Description:* Short iOS app to explore CoreML. Detects Objects in a video using Machine Learning
@@ -29,7 +29,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link](https://github.com/matthewbrod01/ObjectiveDetective)
 
-<img src="objective-detective-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="GIF-recordings/objective-detective-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## HomeDrive
 - *Description:* Incomplete long-term iOS Project. Prototyping an idea that will allow drivers to connect with homeowners for renting out private parking spaces. Basically Airbnb but for garages in urban areas.
@@ -42,7 +42,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link To Be Added When Complete]()
 
-<img src="HomeDrive.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="GIF-recordings/HomeDrive.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## InstagramClone
 - *Description:* Instagram-like app that allows users to post images and captions to a real-time feed
@@ -53,7 +53,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link](https://github.com/matthewbrod01/Instagram-Clone)
 
-<img src="instaclone-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="GIF-recordings/instaclone-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## ParseChat
 - *Description:* Short app project to learn about parse backend. Created a chat messaging client.
@@ -64,7 +64,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link](https://github.com/matthewbrod01/chatClient)
 
-<img src="chatClient-demo-updated.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="GIF-recordings/chatClient-demo-updated.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## Tumblr
 - *Description:* Tumblr Client that shows stories from Humans of New York
@@ -75,7 +75,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link](https://github.com/matthewbrod01/tumblr2.0)
 
-<img src="tumblr2.0-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="GIF-recordings/tumblr2.0-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## Flix
 - *Description:* Uses MovieDB API to browse movies
@@ -86,7 +86,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link](https://github.com/matthewbrod01/flix2.0)
 
-<img src="flix-part2-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="GIF-recordings/flix-part2-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## Tipster
 - *Description:* First iOS Project. Created a Tipping Calculator.
@@ -97,7 +97,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link](https://github.com/matthewbrod01/tipster)
 
-<img src="tipster-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="GIF-recordings/tipster-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 <br />
 
@@ -112,7 +112,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link](https://github.com/matthewbrod01/Uplift)
 
-<img src="uplift.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="GIF-recordings/uplift.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## ForecastFit
 - *Description:* First Hackathon attended (HackCooper, Oct 2018). Created an iOS app that suggests outfits to users based on weather forecasts. **Won most innovative hack out of 40 teams**
@@ -123,4 +123,4 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 [Repo link](https://github.com/matthewbrod01/forecastFit)
 
-<img src="forecastFit.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="GIF-recordings/forecastFit.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
