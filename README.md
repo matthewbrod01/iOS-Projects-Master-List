@@ -9,6 +9,19 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 
 # Personal iOS Projects
 
+## TwitterClone
+**Description:** TwitterClone-like app that allows users to post tweets to a real-time feed
+
+**Features:** TwitterAPI, UITableView, ContainerView, SideMenu Pod, OAuth, Segues, AutoLayout, UIAlertControllers
+
+**Takeaways:** Practiced UI Design by using 3rd party libraries (SideMenu), alert controllers, AutoLayout. Learned to work with API Calls.
+
+[Repo link](https://github.com/matthewbrod01/twitterClone)
+
+<img src="leetTweets3.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="leetTweets4.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="leetTweets.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
+
 ## InstagramClone
 **Description:** Instagram-like app that allows users to post images and captions to a real-time feed
 
@@ -21,7 +34,7 @@ This repository serves to be a quick overview for all of my iOS projects, all in
 <img src="instaclone-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## ParseChat
-**Description:** Created a Chat Messaging Client using Parse Backend
+**Description:** Short app project to learn about parse backend. Created a chat messaging client.
 
 **Features:** OAuth, Parse Backend, Local data persistence
 
